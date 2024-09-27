@@ -1,0 +1,14 @@
+D:\DevStudios\JOYCASTLE_TEST\bin\Debug\net6.0\JOYCASTLE_TEST.exe
+D:\DevStudios\JOYCASTLE_TEST\bin\Debug\net6.0\JOYCASTLE_TEST.deps.json
+D:\DevStudios\JOYCASTLE_TEST\bin\Debug\net6.0\JOYCASTLE_TEST.runtimeconfig.json
+D:\DevStudios\JOYCASTLE_TEST\bin\Debug\net6.0\JOYCASTLE_TEST.dll
+D:\DevStudios\JOYCASTLE_TEST\bin\Debug\net6.0\JOYCASTLE_TEST.pdb
+D:\DevStudios\JOYCASTLE_TEST\obj\Debug\net6.0\JOYCASTLE_TEST.GeneratedMSBuildEditorConfig.editorconfig
+D:\DevStudios\JOYCASTLE_TEST\obj\Debug\net6.0\JOYCASTLE_TEST.AssemblyInfoInputs.cache
+D:\DevStudios\JOYCASTLE_TEST\obj\Debug\net6.0\JOYCASTLE_TEST.AssemblyInfo.cs
+D:\DevStudios\JOYCASTLE_TEST\obj\Debug\net6.0\JOYCASTLE_TEST.csproj.CoreCompileInputs.cache
+D:\DevStudios\JOYCASTLE_TEST\obj\Debug\net6.0\JOYCASTLE_TEST.dll
+D:\DevStudios\JOYCASTLE_TEST\obj\Debug\net6.0\refint\JOYCASTLE_TEST.dll
+D:\DevStudios\JOYCASTLE_TEST\obj\Debug\net6.0\JOYCASTLE_TEST.pdb
+D:\DevStudios\JOYCASTLE_TEST\obj\Debug\net6.0\JOYCASTLE_TEST.genruntimeconfig.cache
+D:\DevStudios\JOYCASTLE_TEST\obj\Debug\net6.0\ref\JOYCASTLE_TEST.dll
